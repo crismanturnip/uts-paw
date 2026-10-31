@@ -3,6 +3,7 @@ import useKoleksi from '../hooks/useKoleksi.js'
 
 export default function Detail() {
   const { id } = useParams()
+  const navigate = useNavigate()
   const { items, loading, hapus } = useKoleksi()
   const item = items.find((i) => String(i.id) === id)
 
@@ -29,16 +30,18 @@ export default function Detail() {
     <dl>
         <dt>Kategori</dt>
         <dd>{item.kategori}</dd>
-        <dt>Tenggat</dt>
-        <dd>{item.tenggat}</dd>
-        <dt>Prioritas</dt>
-        <dd>{item.prioritas}</dd>
+        <dt>Nama Latin</dt>
+        <dd>{item.namaLatin}</dd>
+        <dt>Frekuensi Siram</dt>
+        <dd>{item.frekuensiSiram}</dd>
+        <dt>Kebutuhan Cahaya</dt>
+        <dd>{item.kebutuhanCahaya}</dd>
     </dl>
     <div className="aksi">
-         <button type="button" onClick={konfirmasiHapus}>
+        <button type="button" onClick={konfirmasiHapus}>
           Hapus
         </button>
-     <Link to="/koleksi">Kembali</Link>
+    <Link to="/koleksi">Kembali</Link>
     </div>
     </section>
   )

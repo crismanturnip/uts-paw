@@ -22,7 +22,7 @@ export default function Koleksi() {
         <p>Tidak ada item yang cocok.</p>
       ) : (
       <div className="daftar-kartu">
-        {items.map((item) => (
+        {tampil.map((item) => (
           <KartuItem key={item.id} item={item} />
         ))}
       </div>

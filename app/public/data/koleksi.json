@@ -9,7 +9,8 @@
 
   { "id": "5", "judul": "Lidah Mertua", "kategori": "Daun", "namaLatin": "Dracaena Trifasciata", "frekuensiSiram": "1 kali dalam 2 minggu", "kebutuhanCahaya": "Sedang" },
 
-  { "id": "6", "judul": "Kembang Sepatu", "kategori": "Bunga", "namaLatin": "2026-11-05", "prioritas": "sedang" },
+  { "id": "6", "judul": "Kembang Sepatu", "kategori": "Bunga", "namaLatin": "Hibiscus Rosa Sinensis", "frekuensiSiram": "Menyesuaikan kelembapan tanah", "kebutuhanCahaya": "tinggi"
+  },
 
   { "id": "7", "judul": "Bunga Matahari", "kategori": "Bunga", "namaLatin": "Helianthus Annuus", "frekuensiSiram": "Sesuai kelembaban media", "kebutuhanCahaya": "tinggi" },
 
