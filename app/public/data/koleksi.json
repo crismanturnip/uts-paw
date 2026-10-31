@@ -1,10 +1,21 @@
 [
-  {
-    "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
-  }
+  { "id": "1", "judul": "Melati", "kategori": "Bunga", "namaLatin": "Jasminum sambac", "frekuensiSiram": "2-3 kali seminggu", "kebutuhanCahaya": "tinggi" },
+
+  { "id": "2", "judul": "Mawar", "kategori": "Bunga", "namaLatin": "Rosa spp.", "frekuensiSiram": "2-3 kali seminggu", "kebutuhanCahaya": "tinggi" },
+
+  { "id": "3", "judul": "Kaktus", "kategori": "Sukulen", "namaLatin": "Cactaceae", "frekuensiSiram": "1 kali dalam 2 minggu", "kebutuhanCahaya": "tinggi" },
+
+  { "id": "4", "judul": "Anggrek", "kategori": "Bunga", "namaLatin": "Orchidaceae", "frekuensiSiram": "1-2 kali seminggu", "kebutuhanCahaya": "Sedang" },
+
+  { "id": "5", "judul": "Lidah Mertua", "kategori": "Daun", "namaLatin": "Dracaena Trifasciata", "frekuensiSiram": "1 kali dalam 2 minggu", "kebutuhanCahaya": "Sedang" },
+
+  { "id": "6", "judul": "Kembang Sepatu", "kategori": "Bunga", "namaLatin": "2026-11-05", "prioritas": "sedang" },
+
+  { "id": "7", "judul": "Bunga Matahari", "kategori": "Bunga", "namaLatin": "Helianthus Annuus", "frekuensiSiram": "Sesuai kelembaban media", "kebutuhanCahaya": "tinggi" },
+
+  { "id": "8", "judul": "Aster", "kategori": "Bunga", "namaLatin": "Aster spp.", "frekuensiSiram": "2-3 kali seminggu", "kebutuhanCahaya": "tinggi" },
+
+  { "id": "9", "judul": "Teratai", "kategori": "Bunga", "namaLatin": "Nymphaea Spp", "frekuensiSiram": "Sesuai ketersediaan air di tanamannya", "kebutuhanCahaya": "tinggi" },
+
+  { "id": "10", "judul": "Tulip", "kategori": "Bunga", "namaLatin": "Tulipa spp", "frekuensiSiram": "1 kali dalam 2 minggu", "kebutuhanCahaya": "tinggi" }
 ]
