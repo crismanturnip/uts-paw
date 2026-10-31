@@ -10,9 +10,7 @@ return (
     <section>
         <h1>Statistik</h1>
         <div className="tabel-gulir">
-        <table className="tabel-data"></table>
-        <pre>{JSON.stringify(perKategori, null, 2)}</pre>
-        <table>
+        <table className="tabel-data">
         <thead>
             <tr>
             <th>Kategori</th>
@@ -26,14 +24,6 @@ return (
               <td>{jumlah}</td>
               </tr>
             ))}
-        <tr>
-            <td>Kuliah</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Organisasi</td>
-            <td>1</td>
-          </tr>
         </tbody>
         <tfoot>
             <tr>
