@@ -1,10 +1,10 @@
 # Koleksi Tanaman Hias
 
-Nama: CRISMAN PANORANGI TURNIP
-NIM: 124140118
-Kelas: RB
-Tema: Koleksi Tanaman Hias
-Deployment: https://crismanturnip.github.io/uts-paw/
+- Nama: CRISMAN PANORANGI TURNIP
+- NIM: 124140118
+- Kelas: RB
+- Tema: Koleksi Tanaman Hias
+- Deployment: https://crismanturnip.github.io/uts-paw/
 
 ![Tangkapan layar beranda](beranda.png)
 
@@ -17,9 +17,9 @@ Deployment: https://crismanturnip.github.io/uts-paw/
 
 ## Menjalankan secara lokal
 
-cd app
-npm install
-npm run dev
+- cd app
+- npm install
+- npm run dev
 
 # Koleksi Tanaman Hias
 
