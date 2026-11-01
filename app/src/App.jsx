@@ -17,10 +17,9 @@ import mahasiswa from '../mahasiswa.json'
 function Beranda() {
   return (
     <main>
-      <h1>Ujian Tengah Semester Pengembangan Aplikasi Web</h1>
-      <p>
-        {mahasiswa.nama || 'CRISMAN PANORANGI TURNIP'} ({mahasiswa.nim || '124140118'})
-      </p>
+      <h1><center>Koleksi Tanaman Hias</center></h1>
+
+      <dt>Selamat datang di Website Koleksi Tanaman Hias</dt>
     </main>
   )
 }

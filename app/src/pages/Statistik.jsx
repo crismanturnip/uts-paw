@@ -27,7 +27,7 @@ return (
         </tbody>
         <tfoot>
             <tr>
-                <th>Total</th>
+                <th>Total Tanaman</th>
                 <td>{items.length}</td>
             </tr>
         </tfoot>
